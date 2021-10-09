@@ -6,11 +6,11 @@
 <p align="center">
     <img
         width="49%"
-        src="https://github-readme-stats.vercel.app/api?username=Abh1sh3k-Official&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
+        src="https://github-readme-stats.vercel.app/api?username=Abh1sh3k-Official&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave&custom_title=GitHub+Stats"
     />
     <img
         width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=Abh1sh3k-Official&theme=tokyonight"
+        src="https://github-readme-streak-stats.herokuapp.com?user=Abh1sh3k-Official&theme=synthwave"
     />
 </p>
 
