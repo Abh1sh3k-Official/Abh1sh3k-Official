@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm [𝐀𝐁𝐇𝐈𝐒𝐇𝐄𝐊](t.me/Abh1sh3kOp) | [![Profile Views](https://gpvc.arturio.dev/Abh1sh3k-Officia)](https://github.com/Abh1sh3k-Official)
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm [𝐀𝐁𝐇𝐈𝐒𝐇𝐄𝐊](t.me/dad_iz_here) | [![Profile Views](https://gpvc.arturio.dev/Abh1sh3k-Officia)](https://github.com/Abh1sh3k-Official)
 
 <p align="center">
   <a href="https://github.com/Abh1sh3k-Official"><img src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif"></a>
@@ -39,5 +39,6 @@
 
   
 
+
 ### SOCIAL MEDIA🥀
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/dad_iz_here) [![Github](https://img.shields.io/badge/github-171717.svg?style=for-the-badge&logo=github)](https://github.com/Abh1sh3k-Official) [![Instagram](https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.me/dad_iz_here) 
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/dad_iz_here) [![Github](https://img.shields.io/badge/github-171717.svg?style=for-the-badge&logo=github)](https://github.com/Abh1sh3k-Official) [![Instagram](https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/dad_iz_here) 
